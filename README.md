@@ -2,6 +2,10 @@
   #  🔒 SHA-256 Web App
   This project is a web application that provides a basic interface for users to generate Sha 256 hashes from plain text. It is written in REACT, HTML, JavaScript, and CSS, and uses the secure SHA-256 algorithm for hashing.
   
+  ## Image:
+  
+  ![Screenshot 2023-02-10 155457](https://user-images.githubusercontent.com/106895012/218068366-1102e882-77d8-453e-9286-35023ee71c40.png)
+
   
   # 🌐 View in web:https://w5m7fc.csb.app/
 
